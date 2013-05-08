@@ -1,7 +1,7 @@
 <?php
 
-	$_DEPLOY_FOLDER_DIST_ = "/web-boew/dist";
-	$_DEPLOY_FOLDER_PHP_= "/"
+	$_DEPLOY_FOLDER_DIST_ = "/web-boew";
+	$_DEPLOY_FOLDER_PHP_= ""
 	//$_ROOT_SERVER_DIR = "/wet-boew";
 	//$_ROOT_SERVER_DIR .= "-php";
 
