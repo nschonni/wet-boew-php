@@ -1,9 +1,8 @@
 <?php
 
 	$_DEPLOY_FOLDER_DIST_ = "/wet-boew";
-	$_DEPLOY_FOLDER_PHP_= "/wet-boew"
-	//$_ROOT_SERVER_DIR = "/wet-boew";
-	//$_ROOT_SERVER_DIR .= "-php";
+	$_DEPLOY_FOLDER_PHP_= ""
+	$_ROOT_SERVER_DIR = "";
 
 		//override variables set in the dist config folder here to personalize the site
 	$_DIST_CONFIG_LOC_ = $_ROOT_SERVER_DIR . "/dist-php/config/theme-gcwu-fegc/config.php";
