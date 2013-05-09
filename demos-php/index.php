@@ -13,6 +13,7 @@ $path = realpath(dirname(__FILE__));
 require_once $path ."/config/theme-gcwu-fegc/config.php";
 
 
+$_PAGE['title_eng'] = "Splash page - Bilingual (eng-fra) - GC Web Usability theme - Web Experience Toolkit (WET)";
 $_PAGE['title_fra'] = "Page d'entrée - Bilingue (eng-fra) - Thème de la facilité d'emploi Web GC - Exemples pratiques - Boîte à outils de l'expérience Web (BOEW)";
 
 $_PAGE['short_title_eng'] = "Welcome";
